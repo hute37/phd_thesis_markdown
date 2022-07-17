@@ -1,5 +1,15 @@
 .vscode/
 
+# LaTeX
+
+*.aux
+*.lof
+*.lot
+*.out
+*.gz
+*.toc
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
